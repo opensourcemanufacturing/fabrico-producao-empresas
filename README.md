@@ -29,3 +29,9 @@ Repositório de empresas / fabs com recursos de fabrico e produção em Portugal
 ## Electronica
 
 - Mauser - (www.mauser.pt)
+
+## Impressão Filamentos / Resinas / Metais e outros
+
+- Sculpteo
+- JCLPCB
+- PCBWay
