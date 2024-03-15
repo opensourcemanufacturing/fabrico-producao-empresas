@@ -6,6 +6,7 @@ Repositório de empresas / fabs com recursos de fabrico e produção em Portugal
 - Noras performance - (https://www.noras.pt/home/)
 - Optimal (https://www.optimal.pt/)
 - Fresatudo (https://www.fresatudo.pt/)
+- Alsil (https://www.alsil.pt/)
 
 ## Corte laser metal / Quinagem
 
