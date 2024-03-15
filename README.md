@@ -21,9 +21,10 @@ Repositório de empresas / fabs com recursos de fabrico e produção em Portugal
 
 ## Filamento, Peças Impressão 3D / CNC
 
-- Evolt - ()
-- PontoZ - () 
-- RobotDigg
+- Evolt - (https://evolt.pt/)
+- Filment3D (https://fillment3d.pt/)
+- PontoZ - (https://www.ponto-z.pt/) 
+- RobotDigg (https://robotdigg.com/)
 
 ## Electronica
 
